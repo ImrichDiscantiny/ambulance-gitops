@@ -10,3 +10,4 @@ commonLabels:
 
 resources:
 - ../../../apps/id-ambulance-ufe
+- ../../../infrastructure/fluxcd
